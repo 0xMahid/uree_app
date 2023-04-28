@@ -88,8 +88,7 @@ class _QuizPageState extends State<QuizPage> {
               quizBrain.getQuestionText(),
               textAlign: TextAlign.center,
               style: const TextStyle(
-                // fontFamily: 'Sirajee Sanjar',
-                fontFamily: 'Hasan Meghaloy',
+                fontFamily: 'Sirajee Sanjar',
                 fontSize: 45.0,
                 color: Colors.white,
               ),
@@ -178,6 +177,30 @@ class _QuizPageState extends State<QuizPage> {
             children: scoreKeeper,
           ),
         ),
+        Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: const [
+            Text(
+              'Made with ',
+              style: TextStyle(color: Colors.white),
+            ),
+            Icon(
+              Icons.favorite,
+              color: Colors.red,
+            ),
+            Text(
+              ' By ',
+              style: TextStyle(color: Colors.white),
+            ),
+            Text(
+              '0xMahid',
+              style: TextStyle(
+                color: Colors.white,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+          ],
+        )
       ],
     );
   }
