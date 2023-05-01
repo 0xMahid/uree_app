@@ -6,11 +6,15 @@
 
 <div align="center;">uree-উড়ে</div>
 
-<div align="center">
+<!-- <div align="center">
 ## [Download Here!](https://github.com/0xMahid/uree_app/releases)
-</div>
+</div> -->
 
-<div align="center"><a href="https://github.com/0xMahid/uree_app/releases">Download</a>
+<div align="center">
+<a href="https://github.com/0xMahid/uree_app/releases" alt="Download Here.">
+<h2>Download Here</h2>
+</a>
+</div>
 
 ## Projects inside look.
 
