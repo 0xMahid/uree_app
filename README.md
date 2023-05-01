@@ -4,7 +4,9 @@
 <img src="./uree.png" width="40%" / >
 </div>
 
-<div align="center;" style="font-weight: bold;"><p>uree-উড়ে</p></div>
+<div align="center;" style="font-weight: bold;">
+<h2>uree-উড়ে</h2>
+</div>
 
 <!-- <div align="center">
 ## [Download Here!](https://github.com/0xMahid/uree_app/releases)
