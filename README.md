@@ -1,16 +1,10 @@
 #
 
-![uree logo](./uree.png)
+<div align="center" width=".5">![uree logo](./uree.png)</div>
 
-<p align="align: center;">uree-উড়ে</p>
+<div align="center;">uree-উড়ে</div>
 
-## [Download Here!](https://github.com/0xMahid/uree_app/releases/)
-
-#
-
-#
-
-#
+<div align="center">## [Download Here!](https://github.com/0xMahid/uree_app/releases)</div>
 
 ## Projects inside look.
 
