@@ -2,7 +2,7 @@
 
 ![uree logo](./uree.png)
 
-<p style="text-align: center;">uree-উড়ে</p>
+<p align="align: center;">uree-উড়ে</p>
 
 ## [Download Here!](./releases/)
 
