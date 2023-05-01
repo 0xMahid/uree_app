@@ -4,7 +4,7 @@
 
 <p align="align: center;">uree-উড়ে</p>
 
-## [Download Here!](./releases/)
+## [Download Here!](https://github.com/0xMahid/uree_app/releases/)
 
 #
 
