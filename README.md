@@ -1,8 +1,20 @@
-# quiz_buzz
+#
 
-A new Flutter project.
+![uree logo](./uree.png)
 
-## Getting Started
+<p style="text-align: center;">uree-উড়ে</p>
+
+## [Download Here!](./releases/)
+
+#
+
+#
+
+#
+
+## Projects inside look.
+
+![project thumbnail](./thumbnail.png)
 
 This project is a starting point for a Flutter application.
 
