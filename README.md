@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="font-weight: bold;">
-<h3>uree-উড়ে</h3>
+<h3>Uree - উড়ে</h3>
 </div>
 
 <!-- <div align="center">
