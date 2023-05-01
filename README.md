@@ -1,10 +1,10 @@
 #
 
-<div align="center" width=".5">
-![uree logo](./uree.png)
+<div align="center">
+<img src="./uree.png" width="40%" / >
 </div>
 
-<div align="center;">uree-উড়ে</div>
+<div align="center;" style="font-weight: bold;"><p>uree-উড়ে</p></div>
 
 <!-- <div align="center">
 ## [Download Here!](https://github.com/0xMahid/uree_app/releases)
