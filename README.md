@@ -4,8 +4,8 @@
 <img src="./uree.png" width="40%" / >
 </div>
 
-<div align="center;" style="font-weight: bold;">
-<h2>uree-উড়ে</h2>
+<div align="center" style="font-weight: bold;">
+<h3>uree-উড়ে</h3>
 </div>
 
 <!-- <div align="center">
